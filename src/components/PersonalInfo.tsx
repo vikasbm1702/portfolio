@@ -22,7 +22,7 @@ const PersonalInfo: React.FC = () => {
       degree: "Central Board of Secondary Education (Class 10 / CBSE)",
       institution: "The Summit, Chikmagalur, Karnataka",
       period: "May 2020",
-      grade: "Percentage: 89%",
+      grade: "Percentage: 80%",
       icon: <Award className="w-6 h-6" />
     }
   ];
